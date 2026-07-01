@@ -9,7 +9,6 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/user")
-@CrossOrigin("*")
 public class usercontroller {
 
     @Autowired
